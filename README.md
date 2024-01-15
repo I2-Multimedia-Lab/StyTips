@@ -8,4 +8,12 @@ we propose Transformer fIlter PromptS, dubbed StyTips, a novel approach to reali
 
 # datasets
 
-In the training stage, [MS-COCO](https://cocodataset.org/#download) which is a large-scale dataset for object detection is used as the content dataset, and [WikiArt]https://www.kaggle.com/c/painter-by-numbers as the style dataset which contains art paintings from different artists.
+In the training stage, [MS-COCO](https://cocodataset.org/#download) which is a large-scale dataset for object detection is used as the content dataset, and [WikiArt](https://www.kaggle.com/c/painter-by-numbers) as the style dataset which contains art paintings from different artists.
+
+# Requirments
+
+python == 3.8.13  pytorch == 1.10.0  torchvision == 0.11.0
+
+# Train
+
+run python train.py
