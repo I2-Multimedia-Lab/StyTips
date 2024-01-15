@@ -17,3 +17,6 @@ python == 3.8.13  pytorch == 1.10.0  torchvision == 0.11.0
 # Train
 
 run python train.py
+
+# Acknowledgments
+The codes of Swin-Transformer encoder are token from (https://github.com/microsoft/Swin-Transformer)
