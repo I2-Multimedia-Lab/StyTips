@@ -1,4 +1,5 @@
 StyTips:Style Transfer via Transformer Filtering Prompts
+
 Abstruct
 Image style transfer aims to transfer artistic characteristics from a style image to a content image, maintaining the identity of content but with color and stroke of the style image.
 It has been proven that previous works based on Convolutional Neural Networks (CNNs) lack the ability to capture global features, leading to the issue of content leakage. In this paper,
