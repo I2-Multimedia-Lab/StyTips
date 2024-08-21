@@ -16,5 +16,9 @@ python == 3.8.13  pytorch == 1.10.0  torchvision == 0.11.0
 
 run python train.py
 
+# Examples
+
+![](https://github.com/I2-Multimedia-Lab/StyTips/blob/main/Images/contrast.png)
+
 # Acknowledgments
 The codes of Swin-Transformer encoder are token from (https://github.com/microsoft/Swin-Transformer)
