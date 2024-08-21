@@ -1,6 +1,6 @@
 # StyTips: Towards High-Quality, Efficient and Controllable Style Transfer via Transformer Filtering Prompts
 "`
-[点击此处查看PDF文件](your_pdf_file.pdf)
+[点击此处查看PDF文件]("https://github.com/I2-Multimedia-Lab/StyTips/blob/main/network.pdf")
 "`
 # Abstract
 
